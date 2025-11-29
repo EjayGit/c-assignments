@@ -1,4 +1,5 @@
 # Problem Statement
+
 ## Tasks:
     • Write program that reads 2 ‘user chosen’ characters and print them in a diamond shape,
     • Write a function “info” that displays the instructions and reads the characters,
